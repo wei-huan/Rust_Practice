@@ -1,2 +1,2 @@
 # Rust_Practice
-self immplement using rust
+Self immplement with Rust
