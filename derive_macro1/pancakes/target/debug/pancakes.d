@@ -1,0 +1,1 @@
+/home/weihuan/WorkSpace/Rust/practice/derive_macro1/pancakes/target/debug/pancakes: /home/weihuan/WorkSpace/Rust/practice/derive_macro1/hello_macro/hello_macro_derive/src/lib.rs /home/weihuan/WorkSpace/Rust/practice/derive_macro1/hello_macro/src/lib.rs /home/weihuan/WorkSpace/Rust/practice/derive_macro1/pancakes/src/main.rs

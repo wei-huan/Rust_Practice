@@ -1,0 +1,1 @@
+/home/weihuan/WorkSpace/Rust/practice/derive_macro1/target/debug/derive_macro1: /home/weihuan/WorkSpace/Rust/practice/derive_macro1/src/main.rs /home/weihuan/WorkSpace/Rust/practice/hello_macro/hello_macro_derive/src/lib.rs /home/weihuan/WorkSpace/Rust/practice/hello_macro/src/lib.rs
